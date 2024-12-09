@@ -9,28 +9,29 @@
 
 ### About
 
-Expect to play below roles to contribute, welcome to contact me at LinkedIn or robintptsai@gmail.com to know more about each other.  
+Expect to play below roles in the organization, welcome to contact me here or mail to robintptsai@gmail.com for more details. 
 
-As a **Technical Manager / Architect** role, I will do
+As a Technical Manager, System Architect role, I will do
 
-- Communicate and collaborate closely with business stakeholders, to clarify business context, requirements, and objectives/expectations
-- Develop project plans, propose solution options by priority and phases, define project milestones and deliveries, define definition of done for each deliveries
-- Collaborate closely with internal teams (R&D, Tech Support, Security,  IT, Datacenter, Networking, Admin, Accounting) and external parties (vendor, cloud provider, operation partner), ensure project objectives are aligned, working items can be get done and move to next
-- Lead project meetings and discussions at project kick-off, review and tracking, wrap-up phases, with internal teams and external teams, continuous securing project objectives with all parties, secure project schedule and resources, drive, support and accelerate project teams to achieve project objectives
-- Keep project related meeting notes, working logs, deliveries (design doc, architecture doc, physical location, system configurations, software portal url/credentials) in document format as project assets, to show and prove execution visibilities to project sponsors
-- Develop solution availability and usability objectives (SLA), operation model (people, practice), to ensure solutions are healthy to business continuous mission, provide operation visibilities and insights to stakeholders based on operational facts/data
-- Evaluate security and compliance solutions to comply with global and regional compliance requirements, to have enterprise certified and win more market shares/reputations
-- Propose innovated technology solutions (automation, and AI-accelerated) to achieve better operation maturity
+- 1. Communicate and collaborate closely with business stakeholders, to clarify business context, requirements, and objectives/expectations, to offer cloud and on-premise datacenter infra and application solutions
 
+- 2. Develop solution infra and application rollout plans, propose solution options for infra, data, platform and application components, define milestones and deliveries from POC to production, define definition of done for items
 
-```
-Technical Manager / Architect role & responsibility
-(1) collaborate and communication with stakeholders and project related parties
-(2) develop project plans, including schedule, resources, tasks, priorities, owners, milestones, for project teams' alignment and execution
-(3) track and validate deliveries of project teams, from working tasks to milestones, to secure delivery objectives
-(4) manage solution systems security and health, from physical hardware to software applications, to ensure business continuous
-(5) develop solution optimization proposals for better operation maturity
-```
+- 3. Lead and collaborate internal teams (RD, Tech Support, Security,  IT, Datacenter, Networking, Admin, Accounting) and external parties (vendor, cloud provider, partner), ensure project objectives are aligned, working items can be get done and move forward (use case, design, develop, deploy, test, release, deliver, operation)
+
+- 4. Assign, dispatch, manage and own working tasks, develop the artifacts (codes, scripts, configurations) to provision infra (location, compute, storage, network), deploy application, configure workloads, and provide supports to others
+
+- 5. Lead project meetings and discussions at project kick-off, review and tracking, wrap-up phases, with internal and external teams, continuous securing project objectives with all parties, secure schedule and resources, provide guidance and supports to drive and accelerate the team to achieve
+
+- 6. Keep project related meeting notes, working logs, deliveries (design doc, architecture doc, codes/scripts, configurations, credentials, KB) in document format as project assets, to deliver visibilities and contributions to sponsors
+
+- 7. Develop operation model and principals such as best practice, policy, SLA, release and version control, to ensure system solutions are healthy to business continuous, provide operation visibilities and recommendations for more operation excellence
+
+- 8. Evaluate, design, build and deploy security and compliance solutions to comply with global and regional compliance requirements, develop operation model and practice to execute, help enterprise get certified (GDPR,CCPA,CIS,SOC,FIPS,FEDRAMP,JP MARK,...)
+
+- 9. Propose innovated technology solutions (automation, and AI-accelerated) to achieve better operation productivity and maturity (cost/performance)
+
+- 10. Lead and coach team members to grow and achieve more, for corporate and personal
 
 
 **Working Strategies and Principles**
