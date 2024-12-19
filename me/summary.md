@@ -1,6 +1,7 @@
 ### About Me 
 
-Expect to play below roles and own the responsibilities in the organization, welcome to contact me here or mail to robintptsai@gmail.com for more details (tools, methodologies, ways to achieve). 期待在企業擔任下列角色與負責工作項目,更多詳細資訊(使用方法工具,如何達成等)歡迎連絡)
+
+Expect to take below roles and responsibilities in the organization, welcome to review my profile below (summary for matching, github will be more up-to-date) and contact me at robintptsai@gmail.com thanks. 期待在企業擔任下列角色與負責工作項目,歡迎參考下方簡歷或Github (持續更新)
 
 As a Technical Manager, System Architect role, I will be responsible for: 作為 技術經理, 系統架構師 角色, 我將負責:
 
