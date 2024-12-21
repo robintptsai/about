@@ -2,10 +2,12 @@
 # robintptsai / about
 
 ## Hello
-Feel free to call me Robin, Rob or Robert that can easily identify and distinguish your other friends
+Feel free to call me Robin, Robert or Rocky that can easily identify and distinguish your other friends.
+
+Find me at robintptsai@gmail.com for community related discussion or events.
 
 ## Welcome
-Here the the structure of the repo
+The structure of the repo:
 
 ### For recruiters
 Please go to `me` folder to review my CV (summary, skills, capabilities, principals)
