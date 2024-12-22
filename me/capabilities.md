@@ -30,6 +30,7 @@
 -  
 - Knowledge of enterprise security controls (XDR, SIEM, SOAR) and compliance/privacy domains (CIS, ISO 27001, EU GDPR, US CCPA, JP PMark) 了解企業安全控制（XDR、SIEM、SOAR）和企業合規/隱私法令規範（CIS、ISO 27001、EU GDPR、US CCPA、JP PMark）
 - 
+- Knowledge of LLM (Large Language Model) working model, recognize inputs and generate to sub questions and tasks, use data subsets to train model for specific domains/use case 了解LLM大型語言模型的運成方式, 識別輸入並產生子問題和任務, 使用資料子集訓練特定領域/用例的模型
 - 
 
 ### Weaknesses
@@ -41,6 +42,6 @@
 - 
 - Lack of operation automation solution use and implement stories
 - 
+- Lack of AI model generating experience
 - 
-
 
