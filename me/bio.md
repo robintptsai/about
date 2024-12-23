@@ -1,0 +1,9 @@
+Joined Trend Micro Taiwan in 2009, play the ERP Consultant and Tech Lead role, analyze, design and implement solutions to achieve strategic enterprise operational missions. 2009年起加入台灣趨勢科技, 在企業應用軟體(Business Application)部門擔任企業ERP顧問與技術領導角色, 協助設計,建置,維運公司策略性財會稅務營運等相關專案.
+
+Since 2016, play the role of enterprise data governance and compliance (GDPR/CCPA) project and technical manager, drive and rollout customer master data SaaS/On-premise solutions for global business owners and systems. 2016年擔任企業資料治理與合規專案管理與技術領導角色, 推動實現與維運全球客戶主資料雲端/地端系統, 與策略性GDPR/CCPA跨系統個資整合與合規方案
+
+Since 2019, focus on AWS/Azure cloud platform and data mart/hub solution evaluation, architecture design and feature implementation, to accelerate enterprise operation modernization and transformation. Good at data related technologies including Data Engineering, Data Integration, Data Governance, Compliance and Data Hubs, to continuously deliver and share data insights for enterprise function teams' action references, for more enterprise and customer success. 2019後持續專注於企業雲端服務(AWS,Azure)與資料服務(Data Marts/Hubs)與資料洞察(Data Insight)之解決方案評估,架構設計與建置, 加速企業營運部門之現代化與轉型. 擅長運用資料工程(Engineering), 資料整合(Integration), 資料治理(Governance), 與資料平台(Data Marts/Hubs)等相關應用服務, 持續為企業營運部門提供洞察導向之決策參考與行動建議, 獲得更佳之客戶成功
+
+In 2022, join the new product department sponsored by the CEO to develop the TM V1 on-premise solution, be responsible for designing, deployment and maintenance of Infra (development environment): using Microsoft Azure Stack Hub and Red Hat OpenShift Container Platform, and design and build the principles and processes and application solutions for customer pre-sales planning, in-sales deployment acceptance and delivery, after-sales service and maintenance. 2022加入由CEO贊助成立的新產品部門,研發TM V1的在地化部署解決方案頁目,負責設計基礎建設(開發環境)的建置與維運:使用微軟私有雲(Microsoft Azure Stack Hub)和紅帽容器化平台(OpenShift Container Platform),和設計建置在地化部署客戶售前規劃,售中部署驗收交付,售後服務與維運的原則和流程
+
+

@@ -5,7 +5,7 @@ Expect to take below roles and responsibilities in the organization, please refe
 
 As a Technical Manager, System Architect role, I will be responsible for: 作為 技術經理, 系統架構師 角色, 我將負責:
 
-1. Communicate and collaborate closely with business stakeholders, to clarify business context, requirements, and objectives/expectations, to offer cloud and on-premise datacenter infra and application solutions 與企業營運利害關係人密切溝通協作,了解引導浬清情境需求,期望目標,以提供雲端或自建的技術解決方案 (MSTeams/Zoom, contact windows, meeting agenda, action items, owners)
+1. Communicate and collaborate closely with business stakeholders, to clarify business context, requirements, and objectives/expectations, to offer cloud and on-premise datacenter infra, application and data intelligence solutions 與企業營運利害關係人密切溝通協作,了解引導浬清情境需求,期望目標,以提供雲端或自建的基礎建設,應用程式或資料智慧解決方案 (MSTeams/Zoom, contact windows, meeting agenda, action items, owners)
 
 2. Develop solution infra and application rollout plans, propose solution options (cloud or on-premise data center) for infra (compute, storage, network), data (fresh, legacy) and application components (web, database, cache, streaming), define milestones and deliveries from POC to production 軟體基礎(運算,儲存,網路),資料與應用服務(網站,資料庫,暫存,串流)解決方案的執行計劃設計和方案選項(雲端或資料中心)的提供,制定執行的關鍵里程碑,從概念到生產環境交付(doc, diagram, gantt, WBS)
 
