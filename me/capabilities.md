@@ -28,7 +28,7 @@
 - 
 - Solid knowledge of security, including system security (ex: application identity/OIDC, authentication, authorization, user credential), user security (ex: Azure Entra ID/Enterprise Application/Application Registration, Azure User/Group/Role/IAM), data security (ex: data encryption at transit and rest, data retention and data purge) 紮實的​​安全知識, 包括系統安全 (例如應用程式身分/OIDC,身份驗證,授權,使用者憑證), 使用者安全(例如：Azure Entra ID/企業應用程式/應用程式註冊, Azure 使用者/群組/角色/IAM)與資料安全（例如傳輸和保存時的資料加密,資料保留期限和資料清除）
 -  
-- Knowledge of enterprise security controls (XDR, SIEM, SOAR) and compliance/privacy domains (CIS, ISO 27001, EU GDPR, US CCPA, JP PMark) 了解企業安全控制（XDR、SIEM、SOAR）和企業合規/隱私法令規範（CIS、ISO 27001、EU GDPR、US CCPA、JP PMark）
+- Knowledge of enterprise security controls tools (EDR,XDR,SIEM,SOAR,Zero Trust) and compliance/privacy domains 了解企業安全控制工具和企業合規/隱私法令規範（CIS、ISO 27001、EU GDPR、US CCPA、JP PMark）
 - 
 - Knowledge of LLM (Large Language Model) working model, recognize inputs and generate to sub questions and tasks, use data subsets to train model for specific domains/use case 了解LLM大型語言模型的運成方式, 識別輸入並產生子問題和任務, 使用資料子集訓練特定領域/用例的模型
 - 
